@@ -12,7 +12,7 @@ return false;
 }
 
 if(interests.length === 0){
-alert("Please enter your name");
+alert("Please select at least one interest");
 return false;
 }
 
